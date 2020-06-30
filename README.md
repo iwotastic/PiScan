@@ -1,3 +1,5 @@
+[!PiScan Logo](./PiScan/Assets.xcassets/AppIcon.appiconset/icon60x60@2x-1.png)
+
 # PiScan
 PiScan is a work-in-progress utility for scanning BLE signals for BWSI PiPACT.
 
