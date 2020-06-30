@@ -51,6 +51,8 @@
 		9630C64424A94CBC00D55449 /* PiScanUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PiScanUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9630C64824A94CBC00D55449 /* PiScanUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PiScanUITests.swift; sourceTree = "<group>"; };
 		9630C64A24A94CBC00D55449 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9680B5BF24AAD2FC00E3F86E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		9680B5C024AAD45200E3F86E /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		969254D324A96E7F005D76D8 /* BluetoothScanner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BluetoothScanner.swift; sourceTree = "<group>"; };
 		969254D524A96EB9005D76D8 /* DeviceDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceDetailsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -83,6 +85,8 @@
 		9630C61A24A94CBA00D55449 = {
 			isa = PBXGroup;
 			children = (
+				9680B5BF24AAD2FC00E3F86E /* README.md */,
+				9680B5C024AAD45200E3F86E /* LICENSE */,
 				9630C62524A94CBA00D55449 /* PiScan */,
 				9630C63C24A94CBB00D55449 /* PiScanTests */,
 				9630C64724A94CBC00D55449 /* PiScanUITests */,
